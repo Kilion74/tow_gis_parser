@@ -82,3 +82,4 @@ while count <= 20:
                         [storage['name'], storage['type'], storage['street'], storage['adres'],
                          storage['phone']])
         count += 1
+        print(count)
